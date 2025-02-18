@@ -1,0 +1,25 @@
+
+
+git init
+
+git config --global user.name "manzanol19961"
+git config --global user.email "manzanol19961@gmail.com"
+
+git remote add origin https://github.com/manzano19961/proyecto.git
+
+git remote -v
+
+ls
+
+ python main.py
+
+git add.
+
+git push origin main
+
+git status
+
+git commit --m "practicando python"
+
+
+git log
