@@ -13,7 +13,7 @@ ls
 
  python main.py
 
-git add.
+git add .
 
 git push origin main
 
@@ -22,4 +22,10 @@ git status
 git commit --m "practicando python"
 
 
+--------------------------- esto es para guardar los cambios del proyecto en git-------
+git add .
+git commit -m "Mensaje del commit"
+git push origin main
+
+___________________________________________________________________________________
 git log
